@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KKIntent</string>
+    <string-array name="Prodi">
+        <item>Sistem informasi</item>
+        <item>DKV</item>
+        <item>Akutansi</item>
+        <item>Manajemen</item>
+        <item>Farmasi</item>
+    </string-array>
+</resources>
